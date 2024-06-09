@@ -26,4 +26,4 @@ Collapsed unused columns (Poster Link, Movie Overview)
 Merged Star1-Star4 into Cast
 Removed ‘min’ from runtime, confirmed numerical
 Streamlined column title names
-Checked movie rating system, changed A (Adult) to R (Restricted) since they’re essentially the same
+Checked movie rating system, changed A (Adult) to R (Restricted) since they’re essentially the same.
